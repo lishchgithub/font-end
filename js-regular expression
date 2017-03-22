@@ -1,0 +1,7 @@
+var fg = /(([a-z])(?=a))/g;
+var tmp = "sadfssaccsa";
+var res = tmp.replace(fg,function($0,$1,$2){return $1+"#"});
+document.write(res+"<br>");//s#adfss#accs#a
+var str = 'abc';
+var re = /(a)(b)c/;
+document.write(str.match(re) );//abc,a,b
