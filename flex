@@ -30,3 +30,4 @@ column-reverse	主轴为垂直方向，起点在下沿。
  baseline:the text line is on the same height;
  stretch:the cell stretch to the block top and buttom;
  align-content: flex-start | flex-end | center | space-between | space-around | stretch;
+ align-content is distribution the axis position;
