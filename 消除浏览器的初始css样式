@@ -1,0 +1,12 @@
+/*margin的样式初始化*/
+body,h1,h2,h3,h4,h5,h6,p,ol,ul {
+ margin:0;
+}
+/*padding的样式初始化*/
+ol,ul {
+ padding:0;
+}
+/*列表点点的样式初始化*/
+ul,ol {
+ list-style: none;
+}
