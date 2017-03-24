@@ -10,3 +10,20 @@ ol,ul {
 ul,ol {
  list-style: none;
 }
+标签的初始化
+下划线的样式初始化
+
+/*下划线的样式初始化*/
+a {
+ text-decoration: none;
+}
+/*字体样式初始化*/
+em {
+ font-style:normal;
+}
+标签的初始化
+图片样式
+
+img {
+  border:none;
+}
