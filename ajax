@@ -1,0 +1,6 @@
+1.利用iframe实现类似ajax的功能：
+<iframe id="beforexhr" name="beforexhr" style="width:200px; height:200px; border:2px solid;">
+</iframe>
+<a href="server.php" target="beforexhr">call the server</a>
+2.利用js本身的ajax技术；
+3.利用jquery；
